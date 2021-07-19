@@ -1,0 +1,1 @@
+<div class="follow" style="color: yellow;"><a href="follow.php?type=post&id=<?php echo $row['TAG_ID']?>">+Follow</a></div>
